@@ -1,0 +1,57 @@
+.navtools{
+    width:400px;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+
+}
+header{
+    display: flex;
+    justify-content: space-around;
+
+}
+.img1{
+    width: 300px;
+}
+#headerlogo{
+       width: 200px;
+    position: relative;
+ left:400px
+}
+.leadsection{
+    display: flex;
+    flex-direction: column;
+}
+#headerp{
+    position: relative;
+    left: 200px;
+    font-size: x-large;
+    color: green;
+}
+.twoparagraphs{
+    display: flex;
+    gap: 100px;
+    position: relative;
+    left: 200px;
+
+}
+.twoparagraphs p{
+    width: 200px;
+    height: 450px;
+}
+.forsection{
+    display: flex;
+    justify-content: space-around;
+}
+.for1{
+    background-color: green;
+    height: 350px;
+}
+.for2{
+    background-color: blue;
+    height: 350px;
+}
+.for3{
+    background-color: black;
+    height: 350px;
+}
